@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04806338-fc19-4921-b05f-18b82f84e8ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ScrapyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/case/players.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/case/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/juke_preform/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/aiowebsocket_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/connect_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket_client1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket_client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket_server2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/socket_server_tcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/socket_connect/websocket_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/coroutine_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/editor_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/pattern_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/.idea/smallcourse_auto_run.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/demo_taoge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/get_db_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/socket_conn_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/socket_conn_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/smallcourse_auto_run/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/xiaoke_autotest/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/python_dictionary/yibu_program/queue_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/course_progress/deal_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/course_progress/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/course_progress/search2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/templates/csrf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course_progress/templates/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/app/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/app/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/test/flask_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/test/flask_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/test/flask_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/test/flask_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flask_test/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask_test/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/case/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/case/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/case/detaillist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/python_dictionary/send_email/schedule_send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/python_dictionary/send_email/schedule_send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/python_dictionary/yibu_program/more_association.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/python_dictionary/yibu_program/more_coroutine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/run.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScrapyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapyTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04806338-fc19-4921-b05f-18b82f84e8ba" name="Default Changelist" comment="" />
+      <created>1583476312069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583476312069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
